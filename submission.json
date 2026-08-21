@@ -1,10 +1,10 @@
 {
   "milestone": "day-03",
-  "team": "（学生填写姓名或组名）",
+  "team": "好难起名组",
   "members": [
-    "（学生填写成员姓名）"
+    
   ],
-  "repository_url": "（学生填写 GitHub 仓库 URL）",
+  "repository_url": "https://github.com/tissuefish/ai-camp-2026-d3-xuanhaochen-u202410766",
   "run_command": "python analyze.py",
   "test_command": "python -m unittest discover -s tests -v",
   "report": "report.md",
